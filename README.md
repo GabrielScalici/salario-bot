@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif"/>
-  <h1 align="center"> Saiba quanto custa em função do tempo de trabalho, com base no seu salário </h1>
-  <p align="center"> Sr. Salário </p>
+  <h1 align="center"> Sr. Salário </h1>
+  <p align="center"> Saiba quanto custa em função do tempo de trabalho, com base no seu salário </p>
 </p>
 
 <p align="center">
